@@ -7,5 +7,6 @@ int main(int argc, char *argv[])
     MainWindow w;
     w.show();
 //a few new words
+    //new changes
     return a.exec();
 }
